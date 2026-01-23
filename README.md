@@ -6,5 +6,5 @@ Rock Paper Scissors Lizard Spock Endpoints
 
 I Designed The endpoints that llow a player to play Rock Paper Scissors Lizard Spock both against a computer or another player
 
-Peer Review 
+Peer Review: Vanessa Acuna - The endpoints worked for me and the host link worked as well. 
 

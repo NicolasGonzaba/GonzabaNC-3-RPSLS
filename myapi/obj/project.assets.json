@@ -546,19 +546,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/nicolasgonzaba/.nuget/packages/": {}
+    "/Users/vanessaacuna/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNC#3-RPSLS/myapi/myapi.csproj",
+      "projectUniqueName": "/Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/myapi.csproj",
       "projectName": "myapi",
-      "projectPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNC#3-RPSLS/myapi/myapi.csproj",
-      "packagesPath": "/Users/nicolasgonzaba/.nuget/packages/",
-      "outputPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNC#3-RPSLS/myapi/obj/",
+      "projectPath": "/Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/myapi.csproj",
+      "packagesPath": "/Users/vanessaacuna/.nuget/packages/",
+      "outputPath": "/Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nicolasgonzaba/.nuget/NuGet/NuGet.Config"
+        "/Users/vanessaacuna/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -621,7 +621,7 @@
       "code": "NU1900",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/nicolasgonzaba/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/vanessaacuna/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
     }
   ]
 }
