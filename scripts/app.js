@@ -16,7 +16,7 @@ let playerNum=0
 let match="single"
 
 async function cpuFetchAPI(){
-const response = await fetch(`http://localhost:5041/api/Game/OnePlayer/${inputCPU.value}`);
+const response = await fetch(`https://rpslsgonzaban-gpgjc6gheahtedfb.westus3-01.azurewebsites.net/api/Game/OnePlayer/${inputCPU.value}`);
 data = await response.text();
 console.log(data); 
 cpuWinner.innerText=data

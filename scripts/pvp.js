@@ -18,7 +18,7 @@ let player1Num=0
 let match="single"
 
 async function pvpFetchAPI(){
-const response = await fetch(`http://localhost:5041/api/Game/TwoPlayer/${inputP1.value}/${inputP2.value}`);
+const response = await fetch(`https://rpslsgonzaban-gpgjc6gheahtedfb.westus3-01.azurewebsites.net/api/Game/TwoPlayer/${inputP1.value}/${inputP2.value}`);
 data = await response.text();
 console.log(data); 
 pvpWinner.innerText=data

@@ -1,0 +1,11 @@
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/myapi
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/appsettings.json
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/myapi.dll
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/myapi.deps.json
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/myapi.runtimeconfig.json
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/myapi.pdb
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

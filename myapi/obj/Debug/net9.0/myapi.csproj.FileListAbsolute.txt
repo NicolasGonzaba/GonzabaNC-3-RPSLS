@@ -33,38 +33,3 @@
 /Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/obj/Debug/net9.0/myapi.pdb
 /Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/obj/Debug/net9.0/myapi.genruntimeconfig.cache
 /Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/obj/Debug/net9.0/ref/myapi.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/appsettings.Development.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/appsettings.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/myapi.staticwebassets.endpoints.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/myapi
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/myapi.deps.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/myapi.runtimeconfig.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/myapi.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/myapi.pdb
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/Microsoft.OpenApi.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.csproj.AssemblyReference.cache
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/rpswa.dswa.cache.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.GeneratedMSBuildEditorConfig.editorconfig
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.AssemblyInfoInputs.cache
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.AssemblyInfo.cs
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.csproj.CoreCompileInputs.cache
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.MvcApplicationPartsAssemblyInfo.cs
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.MvcApplicationPartsAssemblyInfo.cache
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.sourcelink.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/rjimswa.dswa.cache.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/scopedcss/bundle/myapi.styles.css
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/staticwebassets.build.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/staticwebassets.build.json.cache
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/staticwebassets.development.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.csproj.Up2Date
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/refint/myapi.dll
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.pdb
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/myapi.genruntimeconfig.cache
-/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/obj/Debug/net9.0/ref/myapi.dll
