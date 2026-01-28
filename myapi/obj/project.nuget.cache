@@ -1,25 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "AKSH+oWWuis=",
+  "dgSpecHash": "DuKVOaUusmg=",
   "success": true,
-  "projectFilePath": "/Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/myapi.csproj",
+  "projectFilePath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/myapi.csproj",
   "expectedPackageFiles": [
-    "/Users/vanessaacuna/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
-    "/Users/vanessaacuna/.nuget/packages/microsoft.openapi/2.3.0/microsoft.openapi.2.3.0.nupkg.sha512",
-    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore/10.1.0/swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
-    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.0/swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
-    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.0/swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
-    "/Users/vanessaacuna/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.0/swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512",
-    "/Users/vanessaacuna/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+    "/Users/nicolasgonzaba/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/Users/nicolasgonzaba/.nuget/packages/microsoft.openapi/2.3.0/microsoft.openapi.2.3.0.nupkg.sha512",
+    "/Users/nicolasgonzaba/.nuget/packages/swashbuckle.aspnetcore/10.1.0/swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
+    "/Users/nicolasgonzaba/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.0/swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "/Users/nicolasgonzaba/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.0/swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "/Users/nicolasgonzaba/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.0/swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512",
+    "/Users/nicolasgonzaba/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1900",
       "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/vanessaacuna/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied.",
-      "projectPath": "/Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/myapi.csproj",
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/nicolasgonzaba/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied.",
+      "projectPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/myapi.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/vanessaacuna/Documents/CodeStack/Level2/GetRepo/GonzabaNC-3-RPSLS/myapi/myapi.csproj",
+      "filePath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNP#2-RPSLS/myapi/myapi.csproj",
       "targetGraphs": []
     }
   ]
