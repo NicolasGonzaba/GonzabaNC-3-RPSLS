@@ -1,10 +1,10 @@
 Nicolas Gonzaba
 
-Date Revised: January 23 2026
+Date Revised: January 28 2026
 
-Rock Paper Scissors Lizard Spock Endpoints
+Rock Paper Scissors Lizard Spock Full
 
-I Designed The endpoints that llow a player to play Rock Paper Scissors Lizard Spock both against a computer or another player
+I designed a full website hosted on Azure, that allows the user to play a game of rock paper scissors lizard Spock. It gets data from a back end API that gives an answer based on user inputs, and decides CPU choices in VS CPU mode
 
-Peer Review: Vanessa Acuna - The endpoints worked for me and the host link worked as well. 
+Peer Review: Vanessa Acuna - 
 

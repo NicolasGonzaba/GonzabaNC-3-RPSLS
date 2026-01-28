@@ -7,7 +7,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("FrontendPolicy", policy =>
     {
-        policy.WithOrigins("http://localhost:5502", "http://127.0.0.1:5502","https://rpslsgonzaban-gpgjc6gheahtedfb.westus3-01.azurewebsites.net")// Your frontend
+        policy.WithOrigins("http://localhost:5502", "http://127.0.0.1:5502","https://rpslsgonzaban-gpgjc6gheahtedfb.westus3-01.azurewebsites.net","https://polite-tree-0e829b71e.6.azurestaticapps.net")// Your frontend
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
