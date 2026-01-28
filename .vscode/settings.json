@@ -1,4 +1,5 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "myapi/bin/Release/net9.0/publish"
+    "appService.deploySubpath": "myapi/bin/Release/net9.0/publish",
+    "liveServer.settings.port": 5502
 }

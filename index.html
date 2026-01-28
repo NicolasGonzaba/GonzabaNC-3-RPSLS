@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>RPSLS</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles/style.css">
+  </head>
+  <body>
+
+    <ul class="nav nav-underline justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="index.html">VS CPU</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="twoPlayer.html">PVP</a>
+  </li>
+  
+</ul>
+
+    <h1>Rock , Paper, Scissors, Lizard, Spock!</h1>
+
+    <div class="container chalk">
+        <div class="row">
+            <div class="col">
+                <img src="Images/RPSLSv2.webp" height="400px" alt="RPSLS-Guide">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row center">
+            <div class="col-10">
+                <h3>How to play VS CPU: </h3>
+                <h4>Enter "Rock","Paper","Scissors","Lizard", or "Spock" in the box below and enter. The CPU will also make a choice and then show who won. This will repeat for as many rounds are chosen until a winner is decided.</h4>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <input type="text" id="inputCPU">
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h4 id="cpuWinner"></h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col" >
+                <h4 id="playerScore">Player:0</h4>
+            </div>
+            <div class="col">
+                <h4 id="cpuScore"> CPU:0</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4 id="cpuMatch"></h4>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <button class="btn btn-success" id="cpuSingle">Single round</button>
+            </div>
+            <div class="col">
+                <button class="btn btn-warning" id="cpuThreeOfFive">Best 3 of 5</button>
+            </div>
+            <div class="col">
+                <button class="btn btn-warning"id="cpuFourOfSeven">Best 4 of 7</button>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="scripts/app.js"></script>
+
+  </body>
+</html>

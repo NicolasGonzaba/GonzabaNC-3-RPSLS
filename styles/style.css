@@ -1,0 +1,27 @@
+body{
+    background-image: url('/Images/wood-background.jpg');
+    text-align: center;
+}
+
+.chalk{
+    background: url('/Images/ChalkBoardv2.avif') center no-repeat;
+    max-width: 800px;
+}
+
+.center{
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    width: 400px;
+}
+
+.nav-link{
+    color: black;
+    font-weight: 700;
+}
+
+.hidden{
+    display: none;
+}
